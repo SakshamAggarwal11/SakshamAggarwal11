@@ -2,13 +2,16 @@ name: GitHub Space Shooter
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every 24 hours
-  workflow_dispatch:     # Allows manual run
+    - cron: "0 0 * * *" 
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
       - name: Generate Space Shooter
         uses: czl9707/gh-space-shooter@main
         with:
