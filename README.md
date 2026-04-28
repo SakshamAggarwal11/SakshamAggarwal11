@@ -1,5 +1,7 @@
 # 💫 About Me:
 Currently, I am developing an AI-powered notepad alongside various hardware projects that integrate custom circuitry with intelligent software layers. My work is centered on building efficient software-hardware interfaces and performance-critical applications using C, C++, and Python, with a specific focus on applying Data Structures and Algorithms (DSA) to solve real-world resource constraints. I am actively deepening my expertise in AI/ML/DL, particularly CNN and RNN architectures, while simultaneously mastering complex DSA implementations for high-speed data manipulation. You can ask me about IoT, electronics, microcontroller programming, or the mechanics of aeromodelling, as I am driven by the challenge of bridging the gap between physical hardware and high-level software logic.
+<img width="480" height="268" alt="image" src="https://github.com/user-attachments/assets/24a55f11-cae2-41e3-8b08-15183bc79627" />
+
 
 
 ## 🌐 Socials:
