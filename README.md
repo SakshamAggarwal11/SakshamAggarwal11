@@ -1,22 +1,29 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="80%" />
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%" />
 👋 Hi, I'm Saksham Aggarwal!
 Junior Developer at RAiot Labs | B.Tech CSE Student | IoT Enthusiast
+
 As a core member of the RAiot Lab, I specialize in bridging the gap between complex hardware and intelligent software. My work centers on building autonomous systems and patent-ready IoT innovations.
 
-🛠️ Embedded Systems: Architecting solutions with ESP32, Arduino and Raspberry pi.
+🛠️ Core Competencies
+Embedded Systems: Architecting solutions with ESP32, Arduino, and Raspberry Pi.
 
-🧠 AI Integration: Developing offline-capable agents and voice-driven automation.
+AI Integration: Developing offline-capable agents and voice-driven automation.
 
-🚀 Featured Project: 
-1) Quill AI
-Quill is a professional, day-to-day AI chat assistant designed for educational and writing workflows. It focuses on seamless integration and offline capabilities to serve as a high-utility personal agent.
-👉 [Check out [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/SakshamAggarwal11/quill-ai)]
-2) Align - Smart Job Aggregator
+Design: Focused on high-performance "Dark Developer" aesthetics.
+
+🚀 Featured Projects
+🧠 Quill AI Assistant
+Quill is a professional, day-to-day AI chat assistant designed for educational and writing workflows.
+
+Focus: Seamless integration and offline capabilities to serve as a high-utility personal agent.
+
+🎯 Align - Smart Job Aggregator
 An intelligent web-scraping and matching tool designed to bridge the gap between developers and the right career opportunities.
 
-Core Logic: Users input their tech stack, and Align fetches relevant, real-time job listings tailored specifically to those skills.
+Core Logic: Fetches real-time, relevant job listings tailored specifically to the user's tech stack.
 
-3) 📂 Full-Stack & IoT: Smart Attendance System
+📂 Full-Stack & IoT Highlights
+Smart Attendance System
 A fully integrated attendance solution using ESP32 and RFID technology.
 
 Backend: Real-time data logging to Google Sheets via Telegram Bot integration.
@@ -25,11 +32,13 @@ Hardware: Custom circuitry involving buzzers, LEDs, and persistent data storage.
 
 Impact: Designed to automate classroom management with zero manual entry.
 
-4) 🚗 Hardware Highlight: PID Line Follower
-An advanced robotics project utilizing an 8-array IR sensor and N20 motors. This project showcases my experience with fine-tuned PID algorithms for precision navigation and speed control.
+PID Line Follower
+An advanced robotics project utilizing an 8-array IR sensor and N20 motors.
+
+Technical Edge: Implements fine-tuned PID algorithms for precision navigation and speed control.
 
 🛠️ Tech Stack
-Languages: C, C++, Python, HTML5/CSS3
+Languages: C, C++, Python (Advanced), HTML5/CSS3
 
 Hardware & IoT: ESP32, Arduino Nano, Raspberry Pi, Sensors (RFID, IR, Ultrasonic)
 
@@ -37,7 +46,8 @@ Web Frameworks: Node.js, Express, Flask
 
 💫 About Me
 🔭 Currently Working On: ScribeOS Monolith — a voice-command, AI-driven writing and drawing machine.
-💬 Ask me about: IoT Architecture
+
+💬 Ask me about: IoT Architecture, Embedded AI, and RC planes.
 
 ⚡ Fun Fact: I'm 19 years old and on a mission to build a patentable tech empire.
 # 💻 Tech Stack:
