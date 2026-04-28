@@ -12,5 +12,6 @@ Currently, I am developing an AI-powered notepad alongside various hardware proj
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sakshamaggarwal11&icon=0&color=0)](https://visitcount.itsvg.in)
+![Space Shooter](https://raw.githubusercontent.com/SakshamAggarwal11/SakshamAggarwal11/output/github-contribution-grid-snake.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
