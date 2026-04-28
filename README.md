@@ -36,13 +36,6 @@ An advanced robotics project utilizing an **8-array IR sensor** and **N20 motors
 
 ---
 
-### 🛠️ Tech Stack
-* **Languages:** C, C++, Python, HTML5/CSS3
-* **Hardware:** ESP32, Arduino Nano, Raspberry Pi, Sensors (RFID, IR, Ultrasonic)
-* **Frameworks:** Node.js, Express, Flask
-
----
-
 ### 💫 About Me
 * 🔭 **Working On:** **ScribeOS Monolith** — a voice-command, AI-driven writing machine.
 * ✈️ **Aeromodelling:** Ask me about **RC Plane Design** and F22 Raptor builds.
