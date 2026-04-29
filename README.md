@@ -52,4 +52,7 @@ An advanced robotics project utilizing an **8-array IR sensor** and **N20 motors
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sakshamaggarwal11&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SakshamAggarwal11/SakshamAggarwal11/main/gh-space-shooter.gif" width="600">
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
