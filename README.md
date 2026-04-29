@@ -52,6 +52,4 @@ An advanced robotics project utilizing an **8-array IR sensor** and **N20 motors
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sakshamaggarwal11&icon=0&color=0)](https://visitcount.itsvg.in)
-![Space Shooter](https://raw.githubusercontent.com/SakshamAggarwal11/SakshamAggarwal11/output/github-contribution-grid-snake-dark.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
