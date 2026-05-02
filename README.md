@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gh-space-shooter.gif" width="500">
+  <img src="">
 </p>
 
 # 👋 Hi, I'm Saksham Aggarwal!
